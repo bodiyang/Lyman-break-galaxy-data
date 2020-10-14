@@ -98,7 +98,7 @@ dfs = dfs[order(dfs$distances),]
 
 ## Plots the three specturm (wavelength-flux)
 
-```{r pressure, echo=FALSE}
+```{r pressure}
 ##plot(pressure)
 library(ggplot2)
 require("FITSio")
