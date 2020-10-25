@@ -1,9 +1,4 @@
 # Lyman-break galaxy data analysis
----
-
-output: html_document
----
-
 
 In this data analysis, I adopted the "Eclidean method" to compare difference, the flux of galaxies, between 100 object galaxies and targeted lyman galaxy.
 
