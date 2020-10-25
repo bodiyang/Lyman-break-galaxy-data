@@ -9,3 +9,4 @@ To be noticed, y-coordinates will be substracted the mean value of elements in e
 
 
 
+Please refer to hw2.R for code; hw2.html for a detailed analysis report
