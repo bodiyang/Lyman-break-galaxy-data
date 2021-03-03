@@ -10,3 +10,9 @@ To be noticed, y-coordinates will be substracted the mean value of elements in e
 
 
 Please refer to hw2.R for code; hw2.html for a detailed analysis report
+
+
+
+• Given a target spectrum cB58, used R to do data cleaning and compare the least square error and correlation of distance between the target spectrum and a new spectrum
+• Wrote Shell script to run 2500 parallel jobs with High Throughput Computing to do data cleaning and to find 100 most similar spectra to cB58 from 2.5 million spectra
+• Visualized 100 patterns of spectra using R
