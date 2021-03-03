@@ -11,6 +11,8 @@ summary:
 • Visualized 100 patterns of spectra using R
 
 
+
+
 **The Euclidean method**
 I'm using the Euclidean method to complete this study. Briefly, the x-coordinates of wavelenth is thought to be irrelevant because of redshift, and we will compare the similiarity of cB_58 and each spectrum based on the Euclidean distances of y-coordinates of flux. The spectrum with smallest Euclidean distance will the ones we are looking for.
 
